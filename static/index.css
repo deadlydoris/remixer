@@ -1,0 +1,21 @@
+h2 {
+    width: 180px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+input {
+    margin-left: 10px !important;
+}
+
+div {
+    width: 330px;
+    background-color: #ffb0b0;
+    border: 4px groove blue;
+    border-radius: 7px;
+    margin: auto;
+}
+
+button{
+    margin-left: 125px;
+}
